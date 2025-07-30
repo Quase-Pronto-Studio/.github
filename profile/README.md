@@ -5,6 +5,10 @@
   <strong>Sempre quase lá.</strong>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Quase-Pronto-Studio/.github/tree/main/_assets/logo.png" alt="Logo Quase Pronto Studio" width="200"/>
+</p>
+
 ---
 
 ## 👋 Sobre nós
