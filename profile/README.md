@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Quase-Pronto-Studio/.github/tree/main/_assets/logo.png" alt="Logo Quase Pronto Studio" width="200"/>
+  <img src="https://github.com/Quase-Pronto-Studio/.github/blob/main/_assets/logo.png" alt="Logo Quase Pronto Studio" width="200"/>
 </p>
 
 ---
